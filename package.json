@@ -1,0 +1,34 @@
+{
+    "name": "Markdown",
+    "displayName": "mdpic",
+    "description": "Markdown picture upload",
+    "version": "0.0.1",
+    "publisher": "jixiang",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "activationEvents": [
+        "onCommand:extension.upload"
+    ],
+    "main": "./extension",
+    "contributes": {
+        "commands": [{
+            "command": "extension.upload",
+            "key": "ctrl+alt+u",
+            "title": "Upload",
+            "when": "editorTextFocus"
+        }]
+    },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install"
+    },
+    "devDependencies": {
+        "vscode": "^0.11.0"
+    },
+    "dependencies": {
+        "qiniu": "^6.1.11"
+    }
+}
