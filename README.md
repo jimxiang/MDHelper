@@ -38,7 +38,7 @@ VSCode is a wonderful editor to build [Font-end] project. Also, it's very conven
   . Restart your VSCode   
 
 ## Configuration
- 1. Open the <b>src/upload.js, and add your Qiniu's Access Key, Secret Key and Bucket name:
+ 1. Open the <b>src/upload.js</b>, and add your Qiniu's Access Key, Secret Key and Bucket name:
 
  ![example-3](http://o7bp9e1ec.bkt.clouddn.com/1463891004008)
 
