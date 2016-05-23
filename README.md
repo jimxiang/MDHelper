@@ -61,8 +61,10 @@ Next you will see the uploading result. If it is successful, you will get the pi
 
 ![example-2](http://o7bp9e1ec.bkt.clouddn.com/1463890443176)
 
-That's all. Nice work, isn't it?
+That's all. Nice work, isn't it? :smiley:
 
 ## Defect
 Because this is my first time to create a vscode extension, this is some thing wrong with it that you can only upload one picture at one time, if you want to uplaod more you need restart the editor. I'll fix this bug later.
 
+##License
+MIT License
