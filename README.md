@@ -59,8 +59,10 @@ keybindings.json
 }...]
 ```
 ###Attention: The shortcut key should be same with the package.json! 
-![config-example](http://o7bp9e1ec.bkt.clouddn.com/1477123506077)
+. keybindings.json
 ![config-example2](http://o7bp9e1ec.bkt.clouddn.com/1477123609597)
+
+. package.json
 ![config-example3](http://o7bp9e1ec.bkt.clouddn.com/1477123646492)
 
 ## Usage
