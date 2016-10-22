@@ -46,6 +46,20 @@ VSCode is a wonderful editor to build [Font-end] project. Also, it's very conven
 
  ![example-4](http://o7bp9e1ec.bkt.clouddn.com/1463891071614)
  
+## VSCode Configuration
+Open the 'keybindings.json', add a piece of shortcut key. Eg: 
+
+```
+keybindings.json
+
+[{
+    "key": "ctrl+alt+u",
+    "command": "extension.upload",
+    "when": "editorTextFocus"
+}...]
+```
+###Attention: The shortcut key should be same with the package.json! 
+
 ## Usage
 In your [.md] files, if your want to insert a picture, press
 ```
