@@ -59,6 +59,9 @@ keybindings.json
 }...]
 ```
 ###Attention: The shortcut key should be same with the package.json! 
+![config-example](http://o7bp9e1ec.bkt.clouddn.com/1477123506077)
+![config-example2](http://o7bp9e1ec.bkt.clouddn.com/1477123609597)
+![config-example3](http://o7bp9e1ec.bkt.clouddn.com/1477123646492)
 
 ## Usage
 In your [.md] files, if your want to insert a picture, press
